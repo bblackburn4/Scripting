@@ -1,0 +1,74 @@
+{
+    "basics": {
+      "name": "Bryon Blackburn",
+      "label": "Service Desk L1",
+      "email": "blackburn32197@gmail.com",
+      "phone": "317-283-9697",
+      "website": "",
+      "location": {
+        "address": "3107 East Tabor Street",
+        "postalCode": "46203",
+        "city": "Indianapolis",
+        "countryCode": "US",
+        "region": "Indiana"
+    }},
+    "work1": {
+      "company": "Bell Techlogix",
+      "Curent Enployer": "True",
+      "location": {
+        "address": "3107 East Tabor Street",
+        "postalCode": "46203",
+        "city": "Indianapolis",
+        "countryCode": "US",
+        "region": "Indiana",
+      "Phone Number": "",
+      "Managers Name":"",
+      "position": "Service Desk L1 Support",
+      "website": "http://belltechlogix.com",
+      "startDate": "2020-07-01",
+      "endDate": "",
+      "summary": "Description..."
+    }},
+    "volunteer": {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    },
+    "education": [{
+      "institution": "Emrich Manual High School",
+      "Graduate": "True",
+      "studyType": "High School",
+      "startDate": "2007-05-01",
+      "endDate": "2011-05-01"
+
+    }],
+    "skills": {
+        "name": "Web Development",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+    },
+
+    "certifications": {
+        "certification1": {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon." },
+        "certification2": {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }  
+  
+}}
