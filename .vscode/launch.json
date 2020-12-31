@@ -1,0 +1,16 @@
+{
+      "configurations": [
+      {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            // C:\Users\bblackburn\Documents\Scripting\CPP\HelloWorld\Helloworld\main.cpp
+            "program": "${workspaceFolder}CPP\\HelloWorld\\Helloworld\\main.cpp",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false
+      }
+      ]
+}
